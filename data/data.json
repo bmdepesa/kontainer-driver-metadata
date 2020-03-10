@@ -4244,6 +4244,11 @@
     "maxChannelServerVersion": "v2.4.0",
     "minChannelServerVersion": "v2.4.0",
     "version": "v1.16.7+k3s1"
+   },
+   {
+    "maxChannelServerVersion": "v2.5.0",
+    "minChannelServerVersion": "v2.3.0",
+    "version": "v1.16.5+k3s1"
    }
   ]
  }
